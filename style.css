@@ -72,6 +72,10 @@ body {
   border-color: rgb(50, 180, 255);
 }
 
+.social-link_github {
+  border-color: rgb(0, 0, 0);
+}
+
 .social-link:hover {
   transform: scale(1.2, 1.2);
 }
